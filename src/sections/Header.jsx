@@ -1,7 +1,6 @@
 import { Link as LinkScroll } from "react-scroll";
 import { useEffect, useState } from "react";
 import clsx from "clsx";
-import PropTypes from "prop-types";
 
 const Header = () => {
   const [hasScrolled, setHasScrolled] = useState(false);
@@ -32,10 +31,6 @@ const Header = () => {
       {title}
     </LinkScroll>
   );
-
-  NavLink.propTypes = {
-    title: PropTypes.string.isRequired,
-  };
 
   return (
     <header
