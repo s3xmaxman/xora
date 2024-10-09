@@ -152,7 +152,7 @@ const Pricing = () => {
 
                 {index === 1 && (
                   <p className="small-compact mt-9 text-center text-p3 before:mx-2.5 before:content-['-'] after:mx-2.5 after:content-['-']">
-                    Limited time offer
+                    期間限定のオファー
                   </p>
                 )}
               </div>
