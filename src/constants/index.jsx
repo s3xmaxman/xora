@@ -161,7 +161,7 @@ export const testimonials = [
   {
     id: "0",
     name: "ジェシカ・サンダース",
-    role: "グローバルノマド",
+    role: "Global nomad",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
       "Xoraのカスタマーサポートは最高です！彼らは私の技術スーパーヒーローのようです。必要なときはいつでもそこにいます。",
