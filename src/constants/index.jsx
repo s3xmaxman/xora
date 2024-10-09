@@ -2,9 +2,9 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "簡単な統合",
+    caption: "Easy integration",
     title: "よりスマートに、より少なく働く",
-    text: "Xoraがあれば、面倒な作業は過去のものになります。自動化とスマートプロセスにより、生産性が新たな高みに引き上げられます。まるでコーヒーをもう一杯飲んだ後のように、しかし、神経質になることはありません。",
+    text: "Xoraがあれば、面倒な作業とはもうお別れです。自動化とスマートプロセスにより、生産性が飛躍的に向上します。まるでコーヒーをもう一杯飲んだ後のような爽快感ですが、神経質になることはありません。",
     button: {
       icon: "/images/magictouch.svg",
       title: "デモを見る",
@@ -13,9 +13,9 @@ export const features = [
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "安全で信頼できる",
+    caption: "Secure & trustworthy",
     title: "安心して眠れます、私たちはあなたの味方です",
-    text: "あなたのデータセキュリティは私たちの最優先事項です。最先端の暗号化と堅牢なプライバシー管理により、Xoraはあなたの情報をフォートノックスよりも安全に保護します。",
+    text: "あなたのデータセキュリティは、私たちにとって最優先事項です。最先端の暗号化と堅牢なプライバシー管理により、Xoraはあなたの情報をフォートノックスよりも安全に保護します。",
     button: {
       icon: "/images/docs.svg",
       title: "ドキュメントを読む",
